@@ -3,6 +3,7 @@ class Student:
         self.name = student_name
         self.cohort = cohort
         
+        
     
     def talk(self):
         return "I can talk!"
